@@ -53,7 +53,7 @@
 
     <div class="container-lg">
 
-        <p id="mainpage">Hello</p>
+        <p id="mainpage">Test</p>
 
     </div>
 
