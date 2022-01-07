@@ -52,12 +52,53 @@
     </nav>
 
     <div class="container-lg">
-
-        <p id="mainpage">Test</p>
-
+        <p id="mainpage">Hey! i'm Lewis.</p>
     </div>
 
+    <div class="container my-1" id="mainpagefooter">
+        <footer>
+            <div class="container p-4s">
+                <div class="row">
+                    <div class="col-lg-10 col-md-12 mb-1">
+                        <h5>lewiswestcott.co.uk</h5>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste atque ea quis
+                            molestias. Fugiat pariatur maxime quis culpa corporis vitae repudiandae aliquam
+                            voluptatem veniam, est atque cumque eum delectus sint!
+                        </p>
+                    </div>
+                    <div class="col-lg-2 col-md-6 mb-1">
+                        <h5 class="mb-3" style="letter-spacing: 2px;">links</h5>
+                        <ul class="list-unstyled mb-0">
+                            <li class="mb-1">
+                                <a href="#!"">Home</a>
+                            </li>
+                            <li class=" mb-1">
+                                    <a href="#!">About Me</a>
+                            </li>
+                            <li class="mb-1">
+                                <a href="#!">Contact</a>
+                            </li>
 
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center p-1">
+                <span style="font-size: 24px;">
+                    <i class="fab fa-github p-1"></i>
+                    <i class="fab fa-linkedin-in p-1"></i>
+                    <i class="fab fa-twitter p-1"></i>
+                </span>
+            </div>
+            <div class="text-center p-1">
+                © 2021 Copyright:
+                <a>lewiswestcott.co.uk</a>
+            </div>
+            <!-- Copyright -->
+        </footer>
+
+    </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.trunk.min.js"></script>
@@ -73,8 +114,6 @@
             scaleMobile: 1.00
         })
     </script>
-
-
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"

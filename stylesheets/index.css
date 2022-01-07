@@ -1,5 +1,6 @@
 body {
     min-height: 100vh;
+
 }
 
 /* .navbar {
@@ -7,8 +8,16 @@ body {
 } */
 
 #mainpage {
-    color: white!important;
-    font-size: 20em;
+    color: white !important;
+    font-size: 2em;
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#mainpagefooter {
+    color: white !important;
+    position: absolute;
+    bottom: 0;
+    width: 100vh;
+
 }
